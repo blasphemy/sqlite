@@ -1,5 +1,7 @@
 github.com/PuerkitoBio/goquery v1.5.1/go.mod h1:GsLWisAFVj4WgDibEWF4pvYnkVQBpKBKeU+7zCJoLcc=
 github.com/andybalholm/cascadia v1.1.0/go.mod h1:GsXiBklL0woXo1j/WYWtSYYC4ouU9PqHO0sqidkEA4Y=
+github.com/blasphemy/go-sqlite3 v1.14.3-0.20200909214145-d63144a878df h1:iBB9QgpWBMfDfqUjiuhtI7fDIkLVZQMRi95jIbhhjmw=
+github.com/blasphemy/go-sqlite3 v1.14.3-0.20200909214145-d63144a878df/go.mod h1:sTnQL5xmqs6Nkd9bfZVaybNEXc6tSUKWwV17qqGP4ZU=
 github.com/jinzhu/inflection v1.0.0 h1:K317FqzuhWc8YvSVlFMCCUb36O/S9MCKRDI7QkRKD/E=
 github.com/jinzhu/inflection v1.0.0/go.mod h1:h+uFLlag+Qp1Va5pdKtLDYj+kHp5pxUVkryuEj+Srlc=
 github.com/jinzhu/now v1.1.1 h1:g39TucaRWyV3dwDO++eEc6qf8TVIQ/Da48WmqjZ3i7E=

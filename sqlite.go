@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"strings"
 
-	_ "github.com/mattn/go-sqlite3"
+	_ "github.com/blasphemy/go-sqlite3"
 	"gorm.io/gorm"
 	"gorm.io/gorm/callbacks"
 	"gorm.io/gorm/clause"
